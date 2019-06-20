@@ -5,7 +5,7 @@ public class SciCalculator {
     static Scanner myScanner = new Scanner(System.in);
     public static void main(String[] args) {
 
-
+//hello
 
         double currentResult = 0.0;
         double userSelection = -1;
